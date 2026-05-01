@@ -6,11 +6,8 @@
 
 ## Project Demo
 
-<div align="center">
-  <video src="assets/SwasthyaPulse.mp4" width="100%" controls>
-    Your browser does not support the video tag.
-  </video>
-</div>
+![SwasthyaPulse Demo](assets/SwasthyaPulse.mp4)
+
 
 
 
