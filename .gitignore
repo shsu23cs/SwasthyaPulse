@@ -1,0 +1,36 @@
+# --- Backend ---
+backend/__pycache__/
+backend/venv/
+backend/.env
+backend/*.db
+backend/*.log
+backend/.pytest_cache/
+
+# --- Frontend ---
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/.output/
+frontend/.vinxi/
+frontend/.tanstack/
+frontend/.nitro/
+frontend/.wrangler/
+frontend/.env
+frontend/*.local
+
+# --- General / System ---
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# --- Project Specific ---
+local.db
+test_ddg.py
